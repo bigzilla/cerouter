@@ -1,4 +1,4 @@
-# cerouter [![Go Reference](https://pkg.go.dev/badge/github.com/injustease/cerouter.svg)](https://pkg.go.dev/github.com/injustease/cerouter) [![main](https://github.com/injustease/cerouter/actions/workflows/main.yml/badge.svg)](https://github.com/injustease/cerouter/actions/workflows/main.yml)
+# cerouter [![Go Reference](https://pkg.go.dev/badge/github.com/injustease/cerouter.svg)](https://pkg.go.dev/github.com/injustease/cerouter) [![main](https://github.com/injustease/cerouter/actions/workflows/main.yaml/badge.svg)](https://github.com/injustease/cerouter/actions/workflows/main.yaml)
 
 Package cerouter provides a router for [CloudEvents](https://github.com/cloudevents/sdk-go).
 
